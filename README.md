@@ -36,19 +36,19 @@ A premium Coaching ERP System built using Python, CustomTkinter, SQLite, and Rep
 
 ## Add Student
 
-![Add Student](screenshots/Add_student.png)
+![Add Student](Add_student.png)
 
 ---
 
 ## View Students
 
-![View Students](screenshots/View_student.png)
+![View Students](View_student.png)
 
 ---
 
 ## Attendance System
 
-![Attendance](screenshots/Attendance_student.png)
+![Attendance](Attendance_student.png)
 
 ---
 
