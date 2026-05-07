@@ -30,7 +30,7 @@ A premium Coaching ERP System built using Python, CustomTkinter, SQLite, and Rep
 
 ## Home Page
 
-![Home](screenshots/Home_Student.png)
+![Home](Home_Student.png)
 
 ---
 
