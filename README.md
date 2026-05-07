@@ -2,16 +2,58 @@
 
 A premium Coaching ERP System built using Python, CustomTkinter, SQLite, and ReportLab.
 
-## Features
-- Student Management
-- Attendance System
-- Invoice PDF Generator
-- Analytics Dashboard
-- SQLite Database
+---
 
-## Technologies
+## Features
+
+✅ Student Management  
+✅ Attendance System  
+✅ Invoice PDF Generator  
+✅ SQLite Database  
+✅ Premium Dark UI  
+✅ Student Analytics  
+✅ Delete Student Option  
+
+---
+
+## Technologies Used
+
 - Python
 - CustomTkinter
-- SQLite
+- SQLite3
 - Matplotlib
 - ReportLab
+
+---
+
+# Screenshots
+
+## Home Page
+
+![Home](screenshots/Home_Student.png)
+
+---
+
+## Add Student
+
+![Add Student](screenshots/Add_student.png)
+
+---
+
+## View Students
+
+![View Students](screenshots/View_student.png)
+
+---
+
+## Attendance System
+
+![Attendance](screenshots/Attendance_student.png)
+
+---
+
+# How to Run
+
+```bash
+pip install -r requirements.txt
+python main.py
